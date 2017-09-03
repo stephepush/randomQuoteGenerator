@@ -1,0 +1,55 @@
+body {
+  font-family: 'Passion One';
+}
+
+#dataDiv {
+  height: auto;
+  border-radius: 19px;
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 12%;
+  background-color: white;
+}
+
+.btn {
+  height: 50px;
+  border-radius: 19px;
+}
+
+#quote {
+  font-size: 1.80em;
+  padding-top: 8%;
+}
+
+blockquote {
+  margin-left: 5%;
+}
+
+#btns {
+  margin-left: 60%;
+  margin-bottom: 5%;
+}
+
+#author {
+  font-size: 1.80em;
+  margin-bottom: 0px;
+}
+
+#buttons {}
+
+button {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  appearance: none;
+  box-shadow: none;
+  color: black;
+  text-shadow: 1px 0 0 #fff, 0 -1px 0 #fff, 0 1px 0 #fff, -1px 0 0 #fff;
+}
+
+button:focus {
+  outline: none
+}
+
+#newQuote {
+  font-size: 1.3em;
+}
